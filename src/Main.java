@@ -18,6 +18,7 @@ public class Main{
         System.out.println("Nombre: " +nombre.toUpperCase() + "\nProfesion: " + profesion.toUpperCase() +
                 "\nNacinalidad: " + nacionalidad.toUpperCase());
 
+
     }
 
 }
